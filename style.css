@@ -1,1 +1,35 @@
-/* nothing here */
+@import url('https://fonts.googleapis.com/css2?family=Karla&family=Spectral:wght@700&display=swap');
+
+body{
+    margin: 50pt;
+    background-color: #021321;
+}
+h1{
+    font-family: 'Spectral', serif;
+    font-size: 100pt;
+    line-height: 0;
+    color: white;
+    padding-top: 50pt;
+    padding-bottom: 50pt;
+}
+p{
+    line-height: 0;
+    color: #8db0c3;
+    font-size: 20pt;
+    
+}
+h2{
+    font-family: 'Karla', sans-serif;
+    color: red;
+    padding-top: 30pt;
+    padding-bottom: 30pt;
+}
+h3{
+    font-family: 'Karla', sans-serif;
+    color:white;
+    border: 5px solid red;
+    border-radius: 50px;
+    background-color: red;
+    padding: 10pt;
+    margin-right: 1065pt;
+}
